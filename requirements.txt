@@ -1,0 +1,4 @@
+ttkbootstrap
+mysql-connector-python
+reportlab
+matplotlib
